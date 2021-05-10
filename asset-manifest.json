@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hyperhidrosis/static/css/main.82bcc0d7.chunk.css",
+    "main.js": "/hyperhidrosis/static/js/main.a817e67f.chunk.js",
+    "main.js.map": "/hyperhidrosis/static/js/main.a817e67f.chunk.js.map",
+    "runtime-main.js": "/hyperhidrosis/static/js/runtime-main.62c42077.js",
+    "runtime-main.js.map": "/hyperhidrosis/static/js/runtime-main.62c42077.js.map",
+    "static/js/2.740e49eb.chunk.js": "/hyperhidrosis/static/js/2.740e49eb.chunk.js",
+    "static/js/2.740e49eb.chunk.js.map": "/hyperhidrosis/static/js/2.740e49eb.chunk.js.map",
+    "static/js/3.dfdd98c7.chunk.js": "/hyperhidrosis/static/js/3.dfdd98c7.chunk.js",
+    "static/js/3.dfdd98c7.chunk.js.map": "/hyperhidrosis/static/js/3.dfdd98c7.chunk.js.map",
+    "index.html": "/hyperhidrosis/index.html",
+    "static/css/main.82bcc0d7.chunk.css.map": "/hyperhidrosis/static/css/main.82bcc0d7.chunk.css.map",
+    "static/js/2.740e49eb.chunk.js.LICENSE.txt": "/hyperhidrosis/static/js/2.740e49eb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62c42077.js",
+    "static/js/2.740e49eb.chunk.js",
+    "static/css/main.82bcc0d7.chunk.css",
+    "static/js/main.a817e67f.chunk.js"
+  ]
+}
