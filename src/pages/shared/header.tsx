@@ -1,9 +1,9 @@
 import React from 'react';
 
-function Contact() {
+function Header() {
     return (
         <div></div>
     );
 }
 
-export default Contact;
+export default Header;

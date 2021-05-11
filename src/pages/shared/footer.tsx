@@ -1,9 +1,9 @@
 import React from 'react';
 
-function Contact() {
+function Footer(props: any) {
     return (
         <div></div>
     );
 }
 
-export default Contact;
+export default Footer;

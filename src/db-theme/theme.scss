@@ -1,5 +1,19 @@
 @import "variables";
+@import "grid";
 @import "navbar";
+
+body {
+  margin: 0;
+  font-family: "HKGroteskPro", serif;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.6;
+  color: $black;
+  background-color: $white;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(22, 28, 45, 0);
+}
+
 
 [class^="container"] {
   position: relative;
@@ -7,3 +21,12 @@
   padding-right: 1.25rem;
   padding-left: 1.25rem;
 }
+
+.flex-container{
+  display: flex;
+  flex-wrap: inherit;
+  align-items: center;
+  justify-content: space-between;
+}
+
+

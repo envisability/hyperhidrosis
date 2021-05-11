@@ -39,3 +39,31 @@ $theme-colors: (
 /* beautify ignore:end */
 
 // Spaces
+$spacer: 1rem !default;
+$spacers: () !default;
+
+/* beautify ignore:start */
+$spacers: map-merge(
+    (
+            0: 0,
+            1: ($spacer * .25), // 4px
+            2: ($spacer * .5), // 8px
+            3: ($spacer * .75), // 12px
+            4: $spacer, // 16px
+            5: ($spacer * 1.5), // 24px
+            6: ($spacer * 2), // 32px
+            7: ($spacer * 2.5), // 40px
+            8: ($spacer * 3), // 48px
+            9: ($spacer * 4), // 64px
+            10: ($spacer * 5), // 80px
+            11: ($spacer * 6), // 96px
+            12: ($spacer * 8), // 128px
+            13: ($spacer * 10), // 160px
+            14: ($spacer * 12), // 192px
+            15: ($spacer * 16), // 256px
+            16: ($spacer * 25), // 400px
+    ),
+    $spacers
+);
+/* beautify ignore:end */
+
