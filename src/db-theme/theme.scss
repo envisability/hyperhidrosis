@@ -1,0 +1,9 @@
+@import "variables";
+@import "navbar";
+
+[class^="container"] {
+  position: relative;
+  z-index: 1;
+  padding-right: 1.25rem;
+  padding-left: 1.25rem;
+}
