@@ -1,8 +1,11 @@
-import React from 'react';
+import React, {Fragment} from 'react';
+import ContactHero from "./contact/contactHero";
 
 function Contact() {
     return (
-        <div></div>
+        <Fragment>
+            <ContactHero />
+        </Fragment>
     );
 }
 
